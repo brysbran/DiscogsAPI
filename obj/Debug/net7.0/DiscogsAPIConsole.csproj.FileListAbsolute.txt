@@ -1,0 +1,17 @@
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\bin\Debug\net7.0\DiscogsAPIConsole.exe
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\bin\Debug\net7.0\DiscogsAPIConsole.deps.json
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\bin\Debug\net7.0\DiscogsAPIConsole.runtimeconfig.json
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\bin\Debug\net7.0\DiscogsAPIConsole.dll
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\bin\Debug\net7.0\DiscogsAPIConsole.pdb
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\obj\Debug\net7.0\DiscogsAPIConsole.csproj.AssemblyReference.cache
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\obj\Debug\net7.0\DiscogsAPIConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\obj\Debug\net7.0\DiscogsAPIConsole.AssemblyInfoInputs.cache
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\obj\Debug\net7.0\DiscogsAPIConsole.AssemblyInfo.cs
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\obj\Debug\net7.0\DiscogsAPIConsole.csproj.CoreCompileInputs.cache
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\obj\Debug\net7.0\DiscogsAPIConsole.csproj.CopyComplete
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\obj\Debug\net7.0\DiscogsAPIConsole.dll
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\obj\Debug\net7.0\refint\DiscogsAPIConsole.dll
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\obj\Debug\net7.0\DiscogsAPIConsole.pdb
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\obj\Debug\net7.0\DiscogsAPIConsole.genruntimeconfig.cache
+F:\ETSU_Fall_23\Server_Side\Labs\DiscogsAPIConsole\obj\Debug\net7.0\ref\DiscogsAPIConsole.dll
